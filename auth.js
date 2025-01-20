@@ -17,4 +17,4 @@ dotenv.config();
     });
   }
   export default fp(authPlugin);
-  //module.exports.d = authPlugin;
+  
